@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - damage
+  - peixe
+  - queijo
+  - dialogo
+  - pular
+  - primeira
+  - sons
+  - rato
+  - portal
+  - NovoRato
+  - puloMaior
+  - puloMenor
+  - ratoVe
+  - pergunta01
+  - pergunta03
+  - pergunta04
+  - noveloVe
+  - descer
+  - normalizar
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Gata
+  - Rato
+  - Invencivel
+  - Pecas
+  - Coletaveis
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
